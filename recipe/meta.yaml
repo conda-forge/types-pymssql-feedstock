@@ -1,5 +1,5 @@
 {% set name = "types-pymssql" %}
-{% set version = "0.1.4" %}
+{% set version = "2.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-pymssql-{{ version }}.tar.gz
-  sha256: 26c52c01d867bfbda1e1ddb3aec25b5372a702d6f0e82e604f014635e7d9920c
+  sha256: 72e04114ce360a0606c3e78caab036636928ad52c4dd839e057932342774763e
 
 build:
   number: 0
